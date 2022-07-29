@@ -5,7 +5,7 @@
 
 # Hey there, I'm S A u r a v 👋
 
-A passionate developer, currently learning and exploring full stack web development by transforming my ideas into building amazing projects !
+A passionate developer, currently learning and exploring full stack web development by transforming my ideas into building amazing projects.
 
 ## My skills 🚀
 
