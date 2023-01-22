@@ -1,11 +1,28 @@
+<h1 align="center">Hi 👋, I'm SAurav 🌱</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
-</div>
+<p align="left"> <a href="https://twitter.com/themodernmonk7" target="blank"><img src="https://img.shields.io/twitter/follow/themodernmonk7?logo=twitter&style=for-the-badge" alt="themodernmonk7" /></a> </p>
 
-# Hey there, I'm S A u r a v 👋
+- 🔭 I’m currently working on [Indago Job Tracking web app](https://indago-job.netlify.app/)
 
-I'm a web developer with experience in frontend development with React.js and backend development with Node.js. I love crafting clean code and developing high-quality products.
+- 🌱 I’m currently learning **TypeScript and NextJs**
+
+- 👨‍💻 All of my projects are available at [themodernmonk7.com](themodernmonk7.com)
+
+- 💬 Ask me about **ReactJs, Redux toolkit (RTK) and NodeJs and ExpressJs**
+
+- 📫 How to reach me **kumaravishek2015@gmail.com**
+
+- ⚡ Fun fact **I was NEET aspirant and was preparing for medical entrance exam to become a doctor.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/themodernmonk7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="themodernmonk7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/themodernmonk7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="themodernmonk7" height="30" width="40" /></a>
+<a href="https://instagram.com/themodernmonk7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themodernmonk7" height="30" width="40" /></a>
+<a href="https://hashnode.com/themodernmonk7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="themodernmonk7" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/themodernmonk7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="themodernmonk7" height="30" width="40" /></a>
+</p>
 
 ## My skills 🚀
 
