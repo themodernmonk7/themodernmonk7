@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript and NextJs**
 
-- 👨‍💻 All of my projects are available at [themodernmonk7.netlify.app/](themodernmonk7.netlify.app)
+- 👨‍💻 All of my projects are available at [themodernmonk7](https://themodernmonk7.netlify.app/)
 
 - 💬 Ask me about **ReactJs, Redux toolkit (RTK) and NodeJs and ExpressJs**
 
