@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript and NextJs**
 
-- 👨‍💻 All of my projects are available at [themodernmonk7.com](themodernmonk7.com)
+- 👨‍💻 All of my projects are available at [themodernmonk7.netlify.app/](themodernmonk7.netlify.app)
 
 - 💬 Ask me about **ReactJs, Redux toolkit (RTK) and NodeJs and ExpressJs**
 
@@ -47,7 +47,7 @@
 
 [![](https://activity-graph.herokuapp.com/graph?username=themodernmonk7&theme=minimal&bg_color=FEFEFF&hide_border=true&line=fb8c0180&point=fb8c01)](http://www.github.com/themodernmonk7)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=themodernmonk7&layout=compact&theme=swift&hide_border=false&bg_color=FEFEFF&icon_color=fb8c01&title_color=fb8c01)](https://github.com/themodernmonk7/github-readme-stats)
+<!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=themodernmonk7&layout=compact&theme=swift&hide_border=false&bg_color=FEFEFF&icon_color=fb8c01&title_color=fb8c01)](https://github.com/themodernmonk7/github-readme-stats) -->
 
 ## Let's Connect 🔗
 
