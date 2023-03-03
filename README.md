@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kumaravishek2015@gmail.com**
 
-- ⚡ Fun fact **I was NEET aspirant and was preparing for medical entrance exam to become a doctor.**
+- ⚡ Fun fact **I was a NEET aspirant and was preparing for medical entrance exam to become a doctor.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
