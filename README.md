@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ReactJs, Redux toolkit (RTK) and NodeJs and ExpressJs**
 
-- 📫 How to reach me **kumaravishek2015@gmail.com**
+- 📫 How to reach me **[Mail](kumaravishek2015@gmail.com)**
 
 - ⚡ Fun fact **I was a NEET aspirant and was preparing for medical entrance exam to become a doctor.**
 
