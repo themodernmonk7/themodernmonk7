@@ -1,7 +1,7 @@
 ![Banner](https://res.cloudinary.com/die12ywpb/image/upload/v1683542792/GitHub_banner_guzrlh.png)
 
 <h1 align="center">Hi 👋, I'm SAurav 🌱</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/themodernmonk7" target="blank"><img src="https://img.shields.io/twitter/follow/themodernmonk7?logo=twitter&style=for-the-badge" alt="themodernmonk7" /></a> </p>
 
