@@ -1,4 +1,4 @@
-![Banner](https://res.cloudinary.com/die12ywpb/image/upload/v1683542792/GitHub_banner_guzrlh.png)
+![Banner](https://res.cloudinary.com/die12ywpb/image/upload/v1683984448/Colorful_Gradient_3D_Artist_Twitter_Header_eixcwh.png)
 
 <h1 align="center">Hi 👋, I'm SAurav 🌱</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **TypeScript and NextJs**
 
-- 👨‍💻 All of my projects are available at my portfolio website [www.themodernmonk7.vercel.app](https://themodernmonk7.vercel.app/)
+- 👨‍💻 All of my projects are available at my portfolio website [themodernmonk7](https://themodernmonk7.framer.website/)
 
 - 💬 Ask me about **ReactJs, Redux toolkit (RTK) and NodeJs and ExpressJs**
 
-- 📫 How to reach me **[Mail](mailto:kumaravishek2015@gmail.com)**
+- 📫 How to reach me: **[email](mailto:kumaravishek2015@gmail.com)**
 
 - ⚡ Fun fact **I was a NEET aspirant and was preparing for medical entrance exam to become a doctor.**
 
