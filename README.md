@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **[email](mailto:kumaravishek2015@gmail.com)**
 
-- ⚡ Fun fact **I was a NEET aspirant and was preparing for medical entrance exam to become a doctor.**
+- ⚡ Fun fact: **I switched from the medical field to engineering.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,16 +36,14 @@
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
 
 ## Github Stats ⚡
 
 | [![](https://github-readme-stats.vercel.app/api?username=themodernmonk7&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&bg_color=FEFEFF&icon_color=fb8c01&title_color=fb8c01)](http://www.github.com/themodernmonk7) | [![](https://github-readme-streak-stats.herokuapp.com?user=themodernmonk7&date_format=M%20j%5B%2C%20Y%5D&background=FEFEFF&hide_border=true)](http://www.github.com/themodernmonk7) |
-| ------------- | ------------- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 [![](https://activity-graph.herokuapp.com/graph?username=themodernmonk7&theme=minimal&bg_color=FEFEFF&hide_border=true&line=fb8c0180&point=fb8c01)](http://www.github.com/themodernmonk7)
 
