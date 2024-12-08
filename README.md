@@ -1,13 +1,13 @@
 ![Banner](https://res.cloudinary.com/die12ywpb/image/upload/v1683984448/Colorful_Gradient_3D_Artist_Twitter_Header_eixcwh.png)
 
-<h1 align="center">Hi 👋, I'm SAurav 🌱</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Kumar Avishek (Saurav) 🌱</h1>
+<h3 align="center">A passionate Frontend Eningeer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/themodernmonk7" target="blank"><img src="https://img.shields.io/twitter/follow/themodernmonk7?logo=twitter&style=for-the-badge" alt="themodernmonk7" /></a> </p>
 
-- 🔭 I’m currently working on [Indago Job Tracking web app](https://indago-job.netlify.app/)
+- 👨‍💻 I am currently working at [OpeninApp](https://openinapp.com/) as a Frontend Eningeer (Dec 2023 - present)
 
-- 🌱 I’m currently learning **TypeScript and NextJs**
+- 🌱 I’m currently learning **AI and Machine Learning using Tensorflow.js**
 
 - 👨‍💻 All of my projects are available at my portfolio website [themodernmonk7](https://themodernmonk7.framer.website/)
 
