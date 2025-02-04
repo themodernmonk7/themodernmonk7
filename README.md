@@ -1,15 +1,13 @@
-![Banner](https://res.cloudinary.com/die12ywpb/image/upload/v1683984448/Colorful_Gradient_3D_Artist_Twitter_Header_eixcwh.png)
+![Banner](https://res.cloudinary.com/die12ywpb/image/upload/v1738425300/portfolio%20og%20image/og-image_xmawlj.png)
 
-<h1 align="center">Hi 👋, I'm Kumar Avishek (Saurav) 🌱</h1>
+<h1 align="center">Hi 👋, I'm Kumar Avishek 🌱</h1>
 <h3 align="center">A passionate Frontend Eningeer from India</h3>
-
-<p align="left"> <a href="https://twitter.com/themodernmonk7" target="blank"><img src="https://img.shields.io/twitter/follow/themodernmonk7?logo=twitter&style=for-the-badge" alt="themodernmonk7" /></a> </p>
 
 - 👨‍💻 I am currently working at [OpeninApp](https://openinapp.com/) as a Frontend Eningeer (Dec 2023 - present)
 
 - 🌱 I’m currently learning **AI and Machine Learning using Tensorflow.js**
 
-- 👨‍💻 All of my projects are available at my portfolio website [themodernmonk7](https://themodernmonk7.framer.website/)
+- 👨‍💻 All of my projects are available at my portfolio website [themodernmonk7](https://themodernmonk7.com/)
 
 - 💬 Ask me about **ReactJs, Redux toolkit (RTK) and NodeJs and ExpressJs**
 
